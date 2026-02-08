@@ -3,6 +3,6 @@
 ### Hello visitor. I'm Bruno
 
 * 💼 I'm currently working at **[CAIXA](https://www.caixa.gov.br/)**
-*  👨‍🎓 I'm a student at **[USP](https://www5.usp.br/)**
+*  👨‍🎓 I'm a **[USP](https://www5.usp.br/)** alumni (finally)
 * ⚙️ This is my personal [stack](https://stackshare.io/milkyuser/my-stack)
-* 🔭 I'm currently interested in learning task orchestration and cloud development
+* 🔭 I'm currently interested in learning GO!
